@@ -13,3 +13,6 @@
 [submodule "metaheuristics"]
 	path = metaheuristics
 	url = https://github.com/pyslvs/metaheuristics.git
+[submodule "PMKS"]
+	path = PMKS
+	url = https://github.com/pyslvs/PMKS.git

@@ -10,13 +10,16 @@
 <v t="leo.20231202195600.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20231202195600.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20231205082558.1"><vh>About</vh></v>
+<v t="leo.20231205082558.1"><vh>About</vh>
+<v t="leo.20231205091145.1"><vh>qtpy</vh></v>
+<v t="leo.20231205092018.1"><vh>PMKS, plus and MotionGen</vh></v>
+<v t="leo.20231205092846.1"><vh>MeKin2D</vh></v>
+</v>
 <v t="leo.20231202195533.2"><vh>py importer</vh></v>
 <v t="leo.20231205083732.1"><vh>pyx importer</vh></v>
 <v t="leo.20231205084737.1"><vh>py</vh>
 <v t="leo.20231205084737.2"><vh>@path Y:/tmp/metapyslvs/</vh>
 <v t="leo.20231205084737.3"><vh>@path Pyslvs-UI</vh>
-<v t="leo.20231205084737.4"><vh>@path docs</vh></v>
 <v t="leo.20231205084738.1"><vh>@path pyslvs_ui</vh>
 <v t="leo.20231205084738.2"><vh>@@clean qt_patch.py</vh>
 <v t="leo.20231205084738.3"><vh>class QABCMeta</vh></v>
@@ -3048,7 +3051,6 @@ c.recursiveImport(
 <t tx="leo.20231205084737.1"></t>
 <t tx="leo.20231205084737.2"></t>
 <t tx="leo.20231205084737.3"></t>
-<t tx="leo.20231205084737.4"></t>
 <t tx="leo.20231205084738.1"></t>
 <t tx="leo.20231205084738.10">def __init__(
     self,
@@ -36273,5 +36275,24 @@ from collections import Counter
     return Entity.create(&amp;self.entity_list.back())
 
 </t>
+<t tx="leo.20231205091145.1">https://github.com/spyder-ide/qtpy
+
+https://blog.csdn.net/weixin_42887343/article/details/123863894</t>
+<t tx="leo.20231205092018.1">https://github.com/pyslvs/PMKS
+https://designengrlab.github.io/PMKS/
+
+PMKS plus: 
+    https://app.pmksplus.com/
+    https://digital.wpi.edu/concern/file_sets/5712m911h
+    https://core.ac.uk/download/pdf/213005393.pdf
+
+MotionGen: 
+    https://motiongen.io/
+    https://deshpandeshrinath.github.io/assets/papers/motiongen.pdf
+</t>
+<t tx="leo.20231205092846.1">MeKin2D:
+    in https://www.freepascal.org/
+    https://sourceforge.net/projects/mekin2d/
+    https://www.researchgate.net/publication/304782762_MeKin2D_Suite_for_Planar_Mechanism_Kinematics</t>
 </tnodes>
 </leo_file>
