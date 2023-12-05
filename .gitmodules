@@ -1,0 +1,15 @@
+[submodule "pyslvs.github.io"]
+	path = pyslvs.github.io
+	url = https://github.com/pyslvs/pyslvs.github.io.git
+[submodule "Pyslvs-UI"]
+	path = Pyslvs-UI
+	url = https://github.com/pyslvs/Pyslvs-UI.git
+[submodule "pyslvs"]
+	path = pyslvs
+	url = https://github.com/pyslvs/pyslvs.git
+[submodule "solvespace"]
+	path = solvespace
+	url = https://github.com/pyslvs/solvespace.git
+[submodule "metaheuristics"]
+	path = metaheuristics
+	url = https://github.com/pyslvs/metaheuristics.git
